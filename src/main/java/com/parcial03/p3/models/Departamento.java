@@ -5,7 +5,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 import javax.persistence.*;
-
+//Modelo de departamento
 @Entity
 @Data
 @NoArgsConstructor

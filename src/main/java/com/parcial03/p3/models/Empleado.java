@@ -3,7 +3,7 @@ package com.parcial03.p3.models;
 import lombok.*;
 
 import javax.persistence.*;
-
+//Modelo de Empleado
 @Getter
 @Setter
 @AllArgsConstructor
