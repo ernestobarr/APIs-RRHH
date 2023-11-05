@@ -9,5 +9,4 @@ class P3ApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
